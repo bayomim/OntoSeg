@@ -1,0 +1,1 @@
+[{"b":"TimePeriod","sim":1},{"b":"ProtohistoricalPeriod","sim":0.6666666666666666},{"b":"YearInSpaceflight","sim":0.6666666666666666},{"b":"Year","sim":0.6666666666666666},{"b":"PrehistoricalPeriod","sim":0.6666666666666666},{"b":"HistoricalPeriod","sim":0.6666666666666666},{"b":"GeologicalPeriod","sim":0.6666666666666666},{"b":"PeriodOfArtisticStyle","sim":0.6666666666666666}]

@@ -1,0 +1,1 @@
+[{"b":"AnatomicalStructure","sim":0.6666666666666666},{"b":"Brain","sim":0.5},{"b":"Muscle","sim":0.5},{"b":"Vein","sim":0.5},{"b":"Nerve","sim":0.5},{"b":"Ligament","sim":1},{"b":"Artery","sim":0.5},{"b":"Bone","sim":0.5},{"b":"Lymph","sim":0.5},{"b":"Embryology","sim":0.5}]

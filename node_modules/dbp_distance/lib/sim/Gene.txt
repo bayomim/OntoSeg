@@ -1,0 +1,1 @@
+[{"b":"Enzyme","sim":0.5},{"b":"Protein","sim":0.5},{"b":"HumanGene","sim":0.8},{"b":"Gene","sim":1},{"b":"MouseGene","sim":0.8},{"b":"Biomolecule","sim":0.6666666666666666}]

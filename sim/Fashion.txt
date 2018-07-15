@@ -1,0 +1,1 @@
+[{"b":"GovernmentType","sim":0.5},{"b":"ChristianDoctrine","sim":0.5},{"b":"Fashion","sim":1},{"b":"SystemOfLaw","sim":0.5},{"b":"Ideology","sim":0.5},{"b":"MusicGenre","sim":0.4},{"b":"MovieGenre","sim":0.4},{"b":"Genre","sim":0.5},{"b":"TopicalConcept","sim":0.6666666666666666}]

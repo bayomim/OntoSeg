@@ -1,0 +1,1 @@
+[{"b":"Name","sim":0.6666666666666666},{"b":"GivenName","sim":1},{"b":"Surname","sim":0.5}]

@@ -1,0 +1,1 @@
+[{"b":"MotorsportSeason","sim":1},{"b":"SoccerClubSeason","sim":0.4},{"b":"FootballLeagueSeason","sim":0.4},{"b":"NCAATeamSeason","sim":0.4},{"b":"SoccerLeagueSeason","sim":0.4},{"b":"SportsTeamSeason","sim":0.5},{"b":"NationalFootballLeagueSeason","sim":0.3333333333333333},{"b":"SportsSeason","sim":0.6666666666666666}]

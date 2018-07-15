@@ -1,0 +1,1 @@
+[{"b":"AutomobileEngine","sim":0.4},{"b":"DigitalCamera","sim":1},{"b":"InformationAppliance","sim":0.4},{"b":"Device","sim":0.5},{"b":"Camera","sim":0.8},{"b":"Weapon","sim":0.4}]

@@ -1,0 +1,1 @@
+[{"b":"Mineral","sim":1},{"b":"ChemicalElement","sim":0.5},{"b":"ChemicalCompound","sim":0.5},{"b":"ChemicalSubstance","sim":0.6666666666666666}]

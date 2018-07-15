@@ -1,0 +1,1 @@
+[{"b":"Beverage","sim":0.8},{"b":"ControlledDesignationOfOriginWine","sim":0.8571428571428571},{"b":"Wine","sim":1},{"b":"Food","sim":0.5},{"b":"Beer","sim":0.6666666666666666},{"b":"Cheese","sim":0.4}]

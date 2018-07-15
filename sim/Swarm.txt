@@ -1,0 +1,1 @@
+[{"b":"Openswarm","sim":0.6666666666666666},{"b":"Swarm","sim":1},{"b":"Globularswarm","sim":0.6666666666666666}]

@@ -1,0 +1,1 @@
+[{"b":"Sport","sim":0.4},{"b":"Activity","sim":0.5},{"b":"Game","sim":0.8},{"b":"BoardGame","sim":1}]

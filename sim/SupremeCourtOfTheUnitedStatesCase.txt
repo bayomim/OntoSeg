@@ -1,0 +1,1 @@
+[{"b":"Case","sim":0.6666666666666666},{"b":"SupremeCourtOfTheUnitedStatesCase","sim":1},{"b":"UnitOfWork","sim":0.4},{"b":"Project","sim":0.3333333333333333},{"b":"ResearchProject","sim":0.2857142857142857},{"b":"LegalCase","sim":0.8571428571428571}]

@@ -1,0 +1,1 @@
+[{"b":"Galaxy","sim":0.5},{"b":"Planet","sim":0.5},{"b":"CelestialBody","sim":0.6666666666666666},{"b":"Star","sim":0.5},{"b":"Constellation","sim":1},{"b":"Asteroid","sim":0.5}]
