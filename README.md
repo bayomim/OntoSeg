@@ -20,6 +20,8 @@ Then run the code as follows:
 
     > node Start_OntoSeg.js
     
+ This version of OntoSeg works on data provided by (Kazantseva & Szpakowicz 2014): http://anna-kazantseva.com/content/
+ 
  In order to run OntoSeg on your data, you need to convert your data into classes from DBpedia.
  
  To do so, use the helper system (https://github.com/bayomim/BuildVSM)
