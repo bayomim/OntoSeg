@@ -14,6 +14,16 @@ This is an implementatio for OntoSeg algorithm
 
 The code is documented in general.
 
+The algorithm is written with NodeJs. You need to instal dependencies first using the package-lock.json file.
+
+Then run the code as follows:
+
+    > node Start_OntoSeg.js
+    
+ In order to run OntoSeg on your data, you need to convert your data into classes from DBpedia.
+ 
+ To do so, use the helper system (https://github.com/bayomim/BuildVSM)
+
 Please cite our paper if you publish material based on this code or dataset.
 
     @INPROCEEDINGS{7395815, 
